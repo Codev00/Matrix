@@ -1,9 +1,9 @@
-const mediaType = {
+export const mediaType = {
    movie: "movie",
    tv: "tv",
 };
 
-const mediaCategory = {
+export const mediaCategory = {
    popular: "popular",
    top_rated: "top_rated",
 };
